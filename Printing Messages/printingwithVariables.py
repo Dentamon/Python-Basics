@@ -1,2 +1,2 @@
-variable = Hello World!
-print(variable)
+message = "Hello World!"
+print(message)
